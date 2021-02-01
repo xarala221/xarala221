@@ -2,7 +2,7 @@
 
 A web developer living in Dakar, Senegal 🇸🇳
 
-<a href="https://api.whatsapp.com/send?phone=+221784428736&text=Hello%20Xarala,%20I%20got%20your%20contact%20from%20your%20Github%20profile" alt="Connect on Whatsapp"> 
+<a href="https://api.whatsapp.com/send?phone=+221763772260&text=Hello%20Xarala,%20I%20got%20your%20contact%20from%20your%20Github%20profile" alt="Connect on Whatsapp"> 
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> 
 </a>
 <a href="https://www.twitter.com/xarala221" alt="Follow Me on Twitter"> 
